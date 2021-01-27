@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MadCapSynonyms xml:lang="en-us">
+    <Groups />
+    <Directional>
+        <DirectionalSynonym From="elearning" To="e-learn" />
+        <DirectionalSynonym From="e learning" To="e-learn" />
+        <DirectionalSynonym From="donnely" To="donnelley" />
+        <DirectionalSynonym From="donelly" To="donnelley" />
+        <DirectionalSynonym From="donneley" To="donnelley" />
+        <DirectionalSynonym From="donelley" To="donnelley" />
+    </Directional>
+</MadCapSynonyms>

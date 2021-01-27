@@ -1,0 +1,106 @@
+/*<meta />*/
+
+/*<meta sourceDocument="H:\Operations Manual\Acknowledgment of Culver.docx" />*/
+
+p
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 10pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-bottom: 0pt;
+	mc-heading-level: 1;
+	font-family: 'Arial Rounded MT Bold';
+	font-weight: bold;
+	color: #005596;
+	font-size: 14pt;
+}
+
+p.p_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol.ol_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul.ul_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li.li_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td.td_1
+{
+	margin-bottom: 10pt;
+	font-family: Arial;
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+h2.Heading2
+{
+	font-size: 12pt;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-weight: bold;
+}
+

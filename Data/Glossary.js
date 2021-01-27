@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Back office software',c:0},{t:'IE',c:0},{t:'KPS',c:0},{t:'Site Controller',c:0},{t:'Substitution Pricing',c:0}]});
